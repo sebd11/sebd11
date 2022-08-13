@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I'm currently located in Montreal, Canada and work as a Full Stack Developer at Bell Canada (Security Operation Center).
+    I'm currently located in Montreal, Canada and work as a Software Developer for Flare Systems.
     <br />
     I have a Bachelor of Software Engineering from <a href="https://www.etsmtl.ca/en/studies/Undergraduate-Programs/Bachelor-of-Software-Engineering">ETS</a>.
 
